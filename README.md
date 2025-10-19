@@ -22,7 +22,7 @@
 
 |**Nome**   |**Data Criação** |**Data Termino** |   
 --------|-------------|-------------|
-|**Tela Login**   |19-10-2025 |Incompleto |   
+|**Tela Login**   |19/10/2025 |Incompleto |   
 
 
 <br>
